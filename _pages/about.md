@@ -1,7 +1,12 @@
 ---
-title: " "
+permalink: /
+title: ""
+excerpt: "About me"
 layout: single
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 header:
   image: /images/pollution-crop.jpg
   caption: Lahore, Pollution. <i class="fas fa-camera"></i> F. Nadeem
