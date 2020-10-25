@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Environmental Economics at the Bren School of Environmental Science and Management and the Department of Economics at University of California, Santa Barbara. My research focuses on development and environmental economics. I graduated from the Lahore University of Management Sciences in 2017 with a degree in economics.
+I am a first-year Ph.D. student in Environmental Economics at the Bren School of Environmental Science and the Department of Economics at University of California, Santa Barbara. My research focuses on development and environmental economics. I graduated from the Lahore University of Management Sciences in 2017 with a degree in economics.
 
 
 ## Research
