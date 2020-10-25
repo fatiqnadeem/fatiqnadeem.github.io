@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Environmental Economics at the Bren School of Environmental Science and the Department of Economics at University of California, Santa Barbara. My research focuses on development and environmental economics. I graduated from the Lahore University of Management Sciences in 2017 with a degree in economics.
+I am a first-year Ph.D. student in Environmental Economics at the Bren School of Environmental Science and the Department of Economics at University of California, Santa Barbara. My research focuses on development and environmental economics. I graduated from the Lahore University of Management Sciences in 2017 with a degree in economics. Before starting graduate school I did desk and field research for three years at Evidence in Governance and Politics, UCLA and the Institute of Development and Economic Alternatives, Pakistan.
 
 
 ## Research
@@ -26,9 +26,5 @@ I am a first-year Ph.D. student in Environmental Economics at the Bren School of
 ### Journal articles
 
 - [Decentralised electric power delivery for rural electrification in Pakistan](https://ideas.repec.org/a/eee/enepol/v120y2018icp312-323.html) Energy Policy, 2018 with Husnain Fateh, Hassan Khan, Mashood Nasir and Nauman Zaffar.
-
-## Other Publications
-### Policy writing
-
 
 
