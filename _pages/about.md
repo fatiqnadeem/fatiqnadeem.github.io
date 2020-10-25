@@ -4,12 +4,12 @@ title: ""
 excerpt: "About me"
 layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 header:
   image: /images/pollution-crop.jpg
   caption: Lahore, Pollution. <i class="fas fa-camera"></i> F. Nadeem
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a first-year Ph.D. student in Environmental Economics at the Bren School of Environmental Science and the Department of Economics, University of California, Santa Barbara. My research focuses on development and environmental economics with a focus on how citizens in developing countries decide to consume and conserve natural resources. 
