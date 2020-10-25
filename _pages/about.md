@@ -25,6 +25,6 @@ I am a first-year Ph.D. student in Environmental Economics at the Bren School of
 
 ### Journal articles
 
-- [Decentralised electric power delivery for rural electrification in Pakistan](https://ideas.repec.org/a/eee/enepol/v120y2018icp312-323.html) Energy Policy, 2018 with Husnain Fateh, Hassan Khan, Mashood Nasir and Nauman Zaffar.
+- [Decentralised electric power delivery for rural electrification in Pakistan](https://ideas.repec.org/a/eee/enepol/v120y2018icp312-323.html). **Energy Policy**, 2018 (with Husnain Fateh, Hassan Khan, Mashood Nasir and Nauman Zaffar).
 
 
