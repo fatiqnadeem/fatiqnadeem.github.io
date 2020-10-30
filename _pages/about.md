@@ -13,6 +13,8 @@ I am a first-year Ph.D. student in Environmental Economics at the Bren School of
 
 I graduated from the Lahore University of Management Sciences in 2017 with a degree in economics. Before starting graduate school I did desk and field research for three years at Evidence in Governance and Politics, UCLA and the Institute of Development and Economic Alternatives, Pakistan.
 
+Please feel free to contact me via email at mnadeem@bren[dot]ucsb[dot]edu
+
 
 ## Research
 
