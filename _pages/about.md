@@ -20,7 +20,7 @@ Please feel free to contact me via email at mnadeem@bren[dot]ucsb[dot]edu
 
 ### Working papers
 
-- [Forecasts: Consumption, Production and Behavioural Responses](https://www.socialscienceregistry.org/trials/4343) (with Matthew Gibson, Arman Rezaee, Husnain Fateh and Sanval Nasim)
+- [Forecasts: Consumption, Production and Behavioural Responses](https://www.dropbox.com/s/lrv496l15p2mgap/paper_432.pdf?dl=0) (with Matthew Gibson, Arman Rezaee, Husnain Fateh and Sanval Nasim)
 
 - [Does Community Policing Build Trust in Police and Reduce Crime? Evidence from Six Coordinated Field Experiments in the Global South](https://egap.org/our-work/the-metaketa-initiative/round4-community-policing/) (with Graeme Blair, Jeremy Weinstein, Fotini Christia et. al.)
 
