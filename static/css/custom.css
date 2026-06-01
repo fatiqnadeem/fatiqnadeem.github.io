@@ -98,7 +98,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 { font-size: 24px; }
-h2 { font-size: 20px; color: #393939; }
+h2 {
+  font-size: 20px;
+  color: #393939;
+  border-left: 3px solid #663399;
+  padding-left: 10px;
+}
 h3 { font-size: 16px; color: #494949; }
 
 p, ul, ol, table, pre, dl {
@@ -185,6 +190,32 @@ th {
 /* Publication entries (from academimal) */
 .pub-entry {
   margin-bottom: 20px;
+}
+
+/* Publication title hover */
+h3 a {
+  transition: color 0.2s ease;
+}
+
+h3 a:hover {
+  color: #663399 !important;
+}
+
+/* Tag style for "Coming soon" etc. */
+em {
+  font-style: italic;
+}
+
+/* Inline tag styling — wrap in <span class="tag"> */
+.tag {
+  display: inline-block;
+  background: #f0e6ff;
+  color: #663399;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-style: normal;
 }
 
 /* Footer */
