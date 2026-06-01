@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ $scratch := newScratch }}
+{{ $scratch.Set "pubcnt" 0 }}
+
+{{ .Content }}
+
+{{ if eq .File.BaseFileName "research" }}
+
+{{ with site.Data.working_papers }}
+<hr>
+<h2 id="workingpapers">Working Papers</h2>
+{{ range . }}
+{{ range .works }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ $scratch.Add "pubcnt" 1 }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{ with site.Data.publications }}
+<hr>
+<h2 id="publications">Publications</h2>
+{{ range . }}
+{{ range .works }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ $scratch.Add "pubcnt" 1 }}
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{ end }}
+
+{{ end }}

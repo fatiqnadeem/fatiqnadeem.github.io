@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Site.Title }}{{ with .Title }} | {{ . }}{{ end }}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
+        <p class="shortbio">{{ .Site.Params.shortbio }}</p>
+        <nav>
+          {{ range .Site.Menus.main }}
+          <a href="{{ .URL | relURL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
+          {{ end }}
+        </nav>
+      </header>
+      <main>
