@@ -22,12 +22,12 @@ enableEmoji = true
     url = "/teaching/"
     weight = 3
   [[menu.main]]
-    name = "Policy Work"
+    name = "Policy & Media"
     url = "/policy/"
     weight = 4
   [[menu.main]]
     name = "CV"
-    url = "/pdf/Nadeem_CV.pdf"
+    url = "/cv/"
     weight = 5
 
 [markup.goldmark.renderer]
