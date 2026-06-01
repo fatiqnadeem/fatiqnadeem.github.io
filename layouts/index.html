@@ -1,16 +1,17 @@
 {{ define "main" }}
 
-<div class="home-photo">
-  {{ with .Site.Params.logo }}
-  <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}">
-  {{ end }}
+<div class="home-row">
+  <div class="home-photo">
+    {{ with .Site.Params.logo }}
+    <img src="{{ . | relURL }}" alt="{{ $.Site.Title }}">
+    {{ end }}
+  </div>
+  <div class="bio">
+    {{ with .GetPage "/sections/aboutme.md" }}
+    {{ .Content }}
+    {{ end }}
+  </div>
 </div>
-
-{{ with .GetPage "/sections/aboutme.md" }}
-<div class="bio">
-{{ .Content }}
-</div>
-{{ end }}
 
 {{ with .GetPage "/sections/contact.md" }}
 <hr>

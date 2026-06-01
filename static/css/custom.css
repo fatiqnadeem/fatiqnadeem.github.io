@@ -131,19 +131,36 @@ hr {
   margin: 24px 0;
 }
 
-/* Home photo */
+/* Home row — photo + bio side by side */
+.home-row {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
 .home-photo {
-  margin-bottom: 24px;
+  flex-shrink: 0;
 }
 
 .home-photo img {
-  max-width: 280px;
+  width: 220px;
   border-radius: 4px;
 }
 
-/* Bio */
 .bio {
-  margin-bottom: 20px;
+  flex: 1;
+}
+
+@media screen and (max-width: 600px) {
+  .home-row {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .home-photo img {
+    width: 180px;
+  }
 }
 
 /* Tables */
