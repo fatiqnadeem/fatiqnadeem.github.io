@@ -44,7 +44,7 @@ header h1 a {
 }
 
 header h1 a:hover {
-  color: #663399;
+  color: #c0392b;
 }
 
 .shortbio {
@@ -62,7 +62,7 @@ nav {
 }
 
 nav a {
-  color: #663399;
+  color: #c0392b;
   text-decoration: none;
   margin-right: 20px;
   font-size: 14px;
@@ -101,7 +101,7 @@ h1 { font-size: 24px; }
 h2 {
   font-size: 20px;
   color: #393939;
-  border-left: 3px solid #663399;
+  border-left: 3px solid #c0392b;
   padding-left: 10px;
 }
 h3 { font-size: 16px; color: #494949; }
@@ -111,8 +111,8 @@ p, ul, ol, table, pre, dl {
 }
 
 a {
-  color: #663399;
-  text-decoration: underline dotted #E6E6FA;
+  color: #c0392b;
+  text-decoration: underline dotted #f5c6c2;
 }
 
 a:hover {
@@ -198,7 +198,7 @@ h3 a {
 }
 
 h3 a:hover {
-  color: #663399 !important;
+  color: #c0392b !important;
 }
 
 /* Tag style for "Coming soon" etc. */
@@ -209,8 +209,8 @@ em {
 /* Inline tag styling — wrap in <span class="tag"> */
 .tag {
   display: inline-block;
-  background: #f0e6ff;
-  color: #663399;
+  background: #fde8e6;
+  color: #c0392b;
   font-size: 12px;
   font-weight: 600;
   padding: 2px 8px;
