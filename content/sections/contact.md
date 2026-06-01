@@ -2,7 +2,7 @@
 headless: true
 ---
 
-**Email:** mnadeem(at)ucsb(dot)edu
+**Email:** mnadeem(at)bren(dot)ucsb(dot)edu
 
 **Address:** 2400 Bren Hall, Santa Barbara, CA 93106-5131
 
