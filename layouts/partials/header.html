@@ -15,7 +15,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
-        <p class="shortbio">{{ .Site.Params.shortbio }}</p>
+        <p class="shortbio">PhD Candidate, <img src="/bren-leaf.png" alt="Bren School" class="bren-inline"> <a href="https://bren.ucsb.edu">Bren School of Environmental Science &amp; Management</a>, UC Santa Barbara</p>
         <nav>
           {{ range .Site.Menus.main }}
           <a href="{{ .URL | relURL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>

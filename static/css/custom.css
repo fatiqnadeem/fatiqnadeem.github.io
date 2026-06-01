@@ -182,15 +182,12 @@ footer {
   color: #999;
 }
 
-.bren-logo {
-  height: 36px;
-  margin-bottom: 8px;
-  opacity: 0.7;
-  transition: opacity 0.2s;
-}
-
-.bren-logo:hover {
-  opacity: 1;
+.bren-inline {
+  height: 22px;
+  vertical-align: middle;
+  position: relative;
+  bottom: 1px;
+  margin-right: 2px;
 }
 
 /* Responsive */
