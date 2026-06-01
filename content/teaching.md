@@ -12,5 +12,5 @@ I teach courses across Environmental Studies and Economics at UC Santa Barbara.
 
 ## Coding Resources
 
-**Linking fires to development outcomes using FireSplit** — *Coming soon.*
-<br>A guide to splitting satellite fire detections across administrative boundaries for causal analysis of fires on health, agriculture, and economic outcomes.
+**FireSplit** — *Coming soon.*
+<br>An R package for splitting satellite fire detections across administrative boundaries, enabling causal analysis of fires on health, agriculture, and economic outcomes.
