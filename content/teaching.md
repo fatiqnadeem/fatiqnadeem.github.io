@@ -13,4 +13,4 @@ I teach courses across Environmental Studies and Economics at UC Santa Barbara.
 ## Coding Resources
 
 **FireSplit** — <span class="tag">Coming soon</span>
-<br>An R + Python package that builds analysis-ready fire panels from raw FIRMS data. Splits satellite fire detections across administrative boundaries at any scale, links them to gridded climate data (temperature, precipitation, wind, drought indices), and outputs regression-ready datasets for causal analysis of fires on health, agriculture, and economic outcomes.
+<br>An R + Python package that builds analysis-ready fire panels from raw FIRMS data. Splits satellite fire detections across administrative boundaries at any scale, links them to gridded climate data (temperature, precipitation, wind, drought indices), runs HYSPLIT dispersion simulations to model 3D smoke transport directly from detected fires, and outputs regression-ready exposure and outcome datasets for causal analysis of fires on health, agriculture, and economic outcomes.
