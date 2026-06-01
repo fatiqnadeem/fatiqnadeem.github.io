@@ -168,31 +168,6 @@ hr {
   }
 }
 
-/* Photo strip */
-.photo-strip {
-  display: flex;
-  gap: 6px;
-  overflow-x: auto;
-  padding: 16px 0;
-  margin: 0 0 20px;
-  -webkit-overflow-scrolling: touch;
-}
-
-.photo-strip img {
-  height: 140px;
-  width: auto;
-  border-radius: 4px;
-  flex-shrink: 0;
-  object-fit: cover;
-  filter: grayscale(20%);
-  transition: filter 0.3s ease, transform 0.3s ease;
-}
-
-.photo-strip img:hover {
-  filter: grayscale(0%);
-  transform: scale(1.03);
-}
-
 /* Tables */
 table {
   width: 100%;
