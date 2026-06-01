@@ -182,6 +182,17 @@ footer {
   color: #999;
 }
 
+.bren-logo {
+  height: 36px;
+  margin-bottom: 8px;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+}
+
+.bren-logo:hover {
+  opacity: 1;
+}
+
 /* Responsive */
 @media screen and (max-width: 600px) {
   .wrapper {
