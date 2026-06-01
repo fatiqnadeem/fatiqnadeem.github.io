@@ -2,7 +2,7 @@
 headless: true
 ---
 
-Welcome! I am an environmental economist working on interdisciplinary research related to climate change, remote sensing and environmental policy. I study how citizens make decisions around natural resources — particularly fires and air pollution. My work examines environmental shocks affecting farmers and citizens, analyzing behavioral, technological, and institutional responses to these challenges.
+Welcome! I am an environmental economist studying fires, air pollution, and decisions around natural resources. My research examines how environmental shocks affect citizens, and how they respond — through behavioral adaptation, new technologies, or institutional change. I evaluate the effectiveness of environmental policies and governance mechanisms, in mitigating these impacts. My work connects environmental policy to health and welfare outcomes across South Asia, Southeast Asia, MENA, Latin America, and California.
 
 My research is supported by the _International Growth Center_, _Schmidt Family Foundation_, _Abdul Latif Jameel Poverty Action Lab (J-PAL)_, and local Central California organizations. My work has been published in *The Economic Journal*, *Science*, and *Energy Policy*.
 
