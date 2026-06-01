@@ -5,8 +5,6 @@ works:
   links:
     - url: "https://doi.org/10.1093/ej/ueaf071"
       text: "Published Version"
-    - url: "https://docs.iza.org/dp17591.pdf"
-      text: "IZA Discussion Paper"
 
 - title: "Building Trusted, Effective Police in the Global South: Evidence on Community Policing from Six Coordinated Field Experiments"
   coauthors: "Graeme Blair, Fotini Christia, Jeremy Weinstein, and others"
@@ -15,7 +13,6 @@ works:
 - title: "Crime, Insecurity, and Community Policing: Experiments on Building Trust"
   coauthors: "Blair, G.; Christia, F.; Weinstein, J.; and others (Editors)"
   book: "Cambridge University Press, September 2024"
-  note: "Book"
 
 - title: "Decentralized Electric Power Delivery for Rural Electrification in Pakistan"
   coauthors: "Husnain Fateh, Hassan Khan, Mashood Nasir, and Nauman Zaffar"
