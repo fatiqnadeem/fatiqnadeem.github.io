@@ -2,7 +2,7 @@
 headless: true
 ---
 
-**Email:** [mnadeem@ucsb.edu](mailto:mnadeem@ucsb.edu)
+**Email:** mnadeem(at)berkeley(dot)edu
 
 **Address:** Bren Hall, UC Santa Barbara, CA 93106
 
