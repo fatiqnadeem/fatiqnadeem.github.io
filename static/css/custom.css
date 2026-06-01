@@ -182,13 +182,6 @@ footer {
   color: #999;
 }
 
-.bren-inline {
-  height: 22px;
-  vertical-align: middle;
-  position: relative;
-  bottom: 1px;
-  margin-right: 2px;
-}
 
 /* Responsive */
 @media screen and (max-width: 600px) {
