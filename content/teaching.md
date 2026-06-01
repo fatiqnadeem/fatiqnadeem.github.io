@@ -2,28 +2,13 @@
 title: "Teaching"
 ---
 
-## University Courses
+## Teaching
 
-**Environmental Studies Program** — 3 courses
-| Term | Course |
-|------|--------|
-| Spring 2026 | ENV S 25 – Quantitative Thinking in Environmental Studies |
-| Winter 2026 | ENV S 149 – Food, Agriculture, and the Environment |
-| Fall 2025 | ENV S 156 – Pathways to Sustainable Water Infrastructure |
+I teach courses across Environmental Studies and Economics at UC Santa Barbara.
 
-**Department of Economics** — 4 courses
-| Term | Course |
-|------|--------|
-| Spring 2025 | ECON 10A – Intermediate Microeconomic Theory |
-| Spring 2023 | ECON 2 – Principles of Macroeconomics |
-| Winter 2023 | ECON 1 – Principles of Microeconomics |
-| Spring 2022 | ECON 2 – Principles of Macroeconomics |
-
-**Bren School of Environmental Science & Management** — 2 courses
-| Term | Course |
-|------|--------|
-| Fall 2021 | EDS 222 – Statistics for Environmental Data Science |
-| Fall 2021 | ESM 245 – Cost and Benefit Analysis |
+**Environmental Studies Program** — ENV S 25, ENV S 149, ENV S 156 (2025–26)
+<br>**Department of Economics** — ECON 10A, ECON 1, ECON 2 (2022–25)
+<br>**Bren School of Environmental Science & Management** — EDS 222, ESM 245 (2021)
 
 ## Outreach & Mentoring
 
