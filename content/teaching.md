@@ -13,4 +13,4 @@ I teach courses across Environmental Studies and Economics at UC Santa Barbara.
 ## Coding Resources
 
 **FireSplit** — *Coming soon.*
-<br>An R package for splitting satellite fire detections across administrative boundaries, enabling causal analysis of fires on health, agriculture, and economic outcomes.
+<br>An R + Python package for splitting satellite fire detections across administrative boundaries, enabling causal analysis of fires on health, agriculture, and economic outcomes.
