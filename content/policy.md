@@ -2,7 +2,7 @@
 title: "Policy Work"
 ---
 
-## Policy Reports
+## Policy, Blogs, and Media Coverage
 
 **"Women's Political Participation in a Pakistani Metropolis: Navigating Gendered Household and Political Spaces"**
 <br>Cheema A., Khan S., Mohmand S.K., Liaqat A., Kuraisi A., and Nadeem F.
