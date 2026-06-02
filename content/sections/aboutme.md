@@ -2,7 +2,7 @@
 headless: true
 ---
 
-Welcome! I am an environmental economist studying how fires and air pollution shape human welfare. My research investigates the mechanisms through which environmental shocks disrupt individuals, households, and communities—and traces how people adapt their behavior, develop new technologies, or reshape institutions in response. I also evaluate how environmental policies and governance institutions mitigate these impacts and improve welfare outcomes.
+Welcome! I am an environmental economist studying how fires and air pollution shape human welfare. My research investigates how environmental shocks disrupt individuals and communities while examining the behavioral and institutional responses that emerge. I evaluate how these responses interact with governance institutions and environmental policies to shape welfare outcomes. I use methods from microeconomics, econometrics, and remote sensing to answer these questions. 
 
 My research is supported by the _International Growth Center_, _Schmidt Family Foundation_, _Abdul Latif Jameel Poverty Action Lab (J-PAL)_, and Central California organizations. My work has been published in *The Economic Journal*, *Science*, and *Energy Policy*.
 
