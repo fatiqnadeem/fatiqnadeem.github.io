@@ -8,15 +8,15 @@ title: "Policy Reports & Media"
 <br>Ahmad H.F., Gibson M., Nadeem F., Nasim S., and Rezaee A.
 <br>International Growth Centre (IGC), Climate Priorities in Developing Countries, January 2024
 
-**"Women's Political Participation in a Pakistani Metropolis: Navigating Gendered Household and Political Spaces"**
+**["Women's Political Participation in a Pakistani Metropolis: Navigating Gendered Household and Political Spaces"](https://ideasdev.org/publications/womens-political-participation-in-a-pakistani-metropolis-navigating-gendered-household-and-political-spaces/)**
 <br>Cheema A., Khan S., Mohmand S.K., Liaqat A., Kuraisi A., and Nadeem F.
 <br>IDEAS Policy Report, April 2019
 
-**"Revision of the Non-Salary Budget Formula"**
+**["Revision of the Non-Salary Budget Formula"](https://ideaspak.org/wp-content/files_mf/1555319397NSBFormulaRevisionReport_June20181.pdf)**
 <br>Bari F., Nadeem F., and Malik R.
 <br>World Bank Policy Report, February 2018
 
-**"Evaluation of Punjab Education Sector Program-II: Data Quality Analysis and Indicator Assessment"**
+**["Evaluation of Punjab Education Sector Program-II: Data Quality Analysis and Indicator Assessment"](https://ideasdev.org/human-development/punjab-education-sector-program-ii/)**
 <br>Aslam M., Malik R., Bari F., Nadeem F., and Safdar N.
 <br>Oxford Policy Management / Department for International Development, Oxford, 2018
 
