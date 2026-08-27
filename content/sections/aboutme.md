@@ -2,7 +2,7 @@
 headless: true
 ---
 
-Welcome! I am an environmental economist studying how **fires** and **air pollution** shape **human welfare**. My research: (i) investigates how environmental shocks disrupt individuals/communities; and (ii) examines the behavioral and institutional responses that emerge from these shocks. I regularly partner with state governments and use methods from microeconomics, econometrics, and remote sensing to answer these questions. **I am on the 2026-2027 Academic Job Market**. 
+Welcome! I am an environmental economist studying how **fires** and **air pollution** shape **human welfare**. My research: (i) investigates how environmental shocks disrupt individuals/communities; and (ii) examines the behavioral and institutional responses that emerge from these shocks. I regularly partner with state governments and use methods from microeconomics, econometrics, and remote sensing to answer these questions. _**I am on the 2026-2027 Job Market**._ 
 
 My research is supported by the _International Growth Center_, _Schmidt Family Foundation_, _Abdul Latif Jameel Poverty Action Lab (J-PAL)_, and _The World Bank_. My work has been published in *The Economic Journal*, *Science*, and *Energy Policy*.
 
