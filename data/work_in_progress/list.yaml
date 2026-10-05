@@ -2,12 +2,16 @@ works:
 
 - title: "Re-optimizing Fires: Increasing Information and Monitoring for Crop Residue Fires in Pakistan"
   coauthors: "Kathryn Baragwanath, A. Patrick Behrer, Jinjing Chen and Caleb Robinson"
+  abstract: "With Microsoft's AI for Good Lab, we build a deep-learning system that detects crop-residue fires field by field in 3-meter satellite imagery for the Government of Punjab, Pakistan. We validated the system against 1,270 ground-truthed fields, and it now feeds a monitoring portal at the provincial Environmental Protection Department. We trace each fire's smoke on the wind of the day it burned to measure the harm farmers would avoid by burning on a different day, and we are designing a field experiment comparing burn-day advisories with payments to test which instrument reduces fire-driven pollution most."
 
 - title: "Strategic Adaptation & Satellite Blind-Spots: Evidence from Northwestern India"
   coauthors: "Kathryn Baragwanath"
+  abstract: "India enforces its crop-residue burning bans with detections from a polar-orbiting satellite that passes at a fixed afternoon hour. Using a geostationary satellite that images northwestern India every ten minutes, we observe the fires the enforcement system misses and find that roughly three quarters of fire activity now occurs outside the monitoring window. Official counts fell by roughly a third while burning continued in the evenings, consistent with farmers shifting when they burn rather than whether they burn in response to predictable enforcement."
 
 - title: "Distributional Effects of Burning: Evidence from Bolivia"
   coauthors: "Kathryn Baragwanath and Yifan He"
+  abstract: "We apply the HYSPLIT dispersion model to trace smoke from fires detected in the years around Bolivia's 2019 land-clearing decree and link the resulting exposure to municipal records of hospitalizations for respiratory and cardiovascular illness. We measure the health costs the decree's fires imposed on downwind communities, so that the decree's full cost includes the health lost downwind as well as the forest its fires burned."
 
 - title: "Access to Justice in Times of Pollution: Evidence from India"
-  coauthors: "Ali Bakhtawar"
+  coauthors: "Bakhtawar Ali"
+  abstract: "We ask whether exposure to crop-residue smoke changes the decisions of India's district courts. We link daily records from millions of cases to nearby fire detections and wind, summing each court's downwind exposure over the preceding days so that variation comes from shifts in the wind rather than from where courts or fires sit. Judges in downwind courts acquit a smaller share of defendants and decide fewer cases on the day of filing, while bail decisions and caseloads do not change, consistent with smoke changing how and when judges decide rather than how much work they finish."
