@@ -1,7 +1,7 @@
 works:
 
 - title: "Re-optimizing Fires: Increasing Information for Crop Residue Fires in Pakistan"
-  coauthors: "Kathryn Baragwanath, A. Patrick Behrer, and Jinjing Chen"
+  coauthors: "Kathryn Baragwanath, A. Patrick Behrer, Jinjing Chen, and Caleb Robinson"
   abstract: "With Microsoft's AI for Good Lab, we build a deep-learning system that detects crop-residue fires field by field in 3-meter satellite imagery for the Government of Punjab, Pakistan. We validated the system against 1,270 ground-truthed fields, and it now feeds a monitoring portal at the provincial Environmental Protection Department. We trace each fire's smoke on the wind of the day it burned to measure the harm farmers would avoid by burning on a different day, and we are designing a field experiment comparing burn-day advisories with payments to test which instrument reduces fire-driven pollution most."
 
 - title: "Distributional Effects of Burning: Evidence from Bolivia"
