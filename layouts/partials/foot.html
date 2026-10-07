@@ -21,5 +21,25 @@
     <!-- GoatCounter privacy-friendly analytics (no cookies) -->
     <script data-goatcounter="https://fatiqnadeem.goatcounter.com/count"
             async src="//gc.zgo.at/count.js"></script>
+    <!-- Visit log with city/county (Cloudflare Worker, repo website-analytics) -->
+    {{ with site.Params.visitsWorker }}
+    <script>
+      (function () {
+        var host = window.location.hostname;
+        if (host === "localhost" || host === "127.0.0.1") return;
+        var url = "{{ strings.TrimSuffix "/" . }}/hit";
+        var payload = JSON.stringify({
+          page: window.location.pathname,
+          referrer: document.referrer || ""
+        });
+        try {
+          if (navigator.sendBeacon &&
+              navigator.sendBeacon(url, new Blob([payload], { type: "text/plain" }))) return;
+        } catch (e) {}
+        fetch(url, { method: "POST", body: payload, keepalive: true,
+                     headers: { "Content-Type": "text/plain" } }).catch(function () {});
+      })();
+    </script>
+    {{ end }}
   </body>
 </html>
