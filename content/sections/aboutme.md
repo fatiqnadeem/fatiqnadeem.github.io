@@ -2,7 +2,7 @@
 headless: true
 ---
 
-Welcome! I am an environmental economist at UC Santa Barbara's Bren School of Environmental Science and Management. _**I am on the 2026–27 job market.**_
+Welcome! I am an environmental economist at UC Santa Barbara's Bren School of Environmental Science and Management and a Research Affiliate at the International Growth Center. _**I am on the 2026–27 job market.**_
 
 I study environmental regulation in the Global South, with a focus on fires and air pollution. I use tools from applied microeconomics, causal inference, and remote sensing to: (i) examine how non-state institutions can enforce environmental rules where the state cannot; (ii) build satellite measurement systems that detect fires and air pollution at high resolution; and (iii) test which policy instruments change behavior, partnering with governments to turn evidence into action.
 
